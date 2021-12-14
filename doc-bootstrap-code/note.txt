@@ -1,0 +1,4 @@
+container được chỉnh theo @media min-witdth
+container sử dụng thuộc tính max-witdth để điều chỉnh độ rộng
+row có margin-left, margin-right: -15pxs
+col sử dụng flex-grow
